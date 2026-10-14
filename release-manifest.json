@@ -1,0 +1,14 @@
+{
+  "counts": {
+    "HEALTHY_COLOMBIA_microbiota_profiles.tsv": 670,
+    "brainharmonix_f_mllabiome.tsv": 768,
+    "participants": 88
+  },
+  "files": {
+    "HEALTHY_COLOMBIA_microbiota_profiles.tsv": "3723b7c2315468565648a93b38698280ce15b9944c570f2a22aeca7512410d72",
+    "brainharmonix_f_mllabiome.tsv": "de14fff762810815a81c0e37653376d1bd71ad3c4f80d7ed303950193a8cf8c7",
+    "participants.tsv": "ea140f1f2c0ae25cb1f941b1eec3076d2d405810a8a35e5816e2ecf484a5c11c"
+  },
+  "schema": 1,
+  "version": "gutbrain-v1"
+}
