@@ -14,7 +14,7 @@ The first preview of **Curated Microbiota–Gut–Brain Axis** introduces an ins
 ## Getting started
 
 ```bash
-python -m pip install "git+https://github.com/CMG-GUTS/curated--microbiota-gut-brain-axis.git"
+python -m pip install "git+https://github.com/CMG-GUTS/curated-microbiota-gut-brain-axis.git"
 ```
 
 ```python

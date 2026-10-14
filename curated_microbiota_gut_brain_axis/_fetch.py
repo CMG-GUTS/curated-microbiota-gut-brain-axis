@@ -13,7 +13,7 @@ from platformdirs import user_cache_dir
 
 from ._data import FILES, validate
 
-REPOSITORY = "https://raw.githubusercontent.com/CMG-GUTS/curated--microbiota-gut-brain-axis"
+REPOSITORY = "https://raw.githubusercontent.com/CMG-GUTS/curated-microbiota-gut-brain-axis"
 RELEASE_REFS = ("v0.1.0", "main")
 
 

@@ -68,7 +68,7 @@ def test_download_never_references_mllabiome(tmp_path: Path, monkeypatch: pytest
     with pytest.raises(RuntimeError, match="curated-microbiota-gut-brain-axis data release"):
         _fetch.fetch()
     assert len(addresses) == len(_fetch.RELEASE_REFS)
-    assert all("curated--microbiota-gut-brain-axis" in address for address in addresses)
+    assert all("curated-microbiota-gut-brain-axis" in address for address in addresses)
     assert not any("mllabiome" in address for address in addresses)
 
 

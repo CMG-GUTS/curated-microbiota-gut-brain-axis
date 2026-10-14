@@ -24,7 +24,7 @@ The collection combines taxonomic profiles, derived BrainHarmonix embeddings and
 Python 3.10–3.13 is supported. Install from GitHub:
 
 ```bash
-python -m pip install "git+https://github.com/CMG-GUTS/curated--microbiota-gut-brain-axis.git"
+python -m pip install "git+https://github.com/CMG-GUTS/curated-microbiota-gut-brain-axis.git"
 ```
 
 For model benchmarking, install [`mllabiome`](https://github.com/CMG-GUTS/mllabiome) in the same environment:
